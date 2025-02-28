@@ -387,7 +387,5 @@ form.customform input, form.customform select, form.customform textarea {
     width:100px;
     height:100px;
     display:inline-block;
-    justify-content:center;
-    align-items:center;
 }
 
