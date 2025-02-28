@@ -384,7 +384,7 @@ form.customform input, form.customform select, form.customform textarea {
 .propic{
     border-radius:50%;
     border: 2px solid orange;
-    max-width:30%;
+    width:30%;
     height:30%;
     display:inline-block;
     justify-content:center;
